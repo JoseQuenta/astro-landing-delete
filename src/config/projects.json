@@ -1,0 +1,29 @@
+{
+    "projects": [
+        {
+            "title": "Farm Land 1",
+            "description": "        Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta consectetur tempora, veritatis aliquam delectus quam culpa quisquam nesciunt animi exercitationem non saepe ab, facere fugiat doloremque, accusantium expedita eius vitae eligendi quasi aspernatur. Aperiam illo, suscipit magni amet voluptas voluptate!",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 2",
+            "description": "lorem dsadsad dsa dsa dsa dsa dsa ddsadsadsa",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 3",
+            "description": "lorem dsadsad dsa dsa dsa dsa dsa ddsadsadsa",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 4",
+            "description": "lorem dsadsad dsa dsa dsa dsa dsa ddsadsadsa",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 5",
+            "description": "lorem dsadsad dsa dsa dsa dsa dsa ddsadsadsa",
+            "image": "images/fingerprint.svg"
+        }
+    ]
+}
